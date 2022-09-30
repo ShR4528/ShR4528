@@ -17,10 +17,10 @@
  </div>
 
 ## My Portfolio:
-*  https://github.com/ShR4528/Weather-App/
-*  https://shr4528.github.io/portfolio/
-*  https://shr4528.github.io/personal-portfolio/
-*  https://shr4528.github.io/covid-spa/
+*  https://github.com/ShR4528/Weather-App
+*  https://shr4528.github.io/portfolio
+*  https://shr4528.github.io/personal-portfolio
+*  https://shr4528.github.io/covid-spa
 
 
 - 📫 How to reach me shr4528@gmail.com
