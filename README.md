@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original-wordmark.svg" title="Vue" alt="Vue" width="40"height="40"/>&nbsp;
   
   
  </div>
@@ -21,6 +22,7 @@
 *  https://shr4528.github.io/portfolio
 *  https://shr4528.github.io/personal-portfolio
 *  https://shr4528.github.io/covid-spa
+*  https://shr4528.github.io/React-Redux-Todo-App/
 
 
 - 📫 How to reach me shr4528@gmail.com
