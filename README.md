@@ -22,6 +22,8 @@
 *  https://shr4528.github.io/personal-portfolio
 *  https://shr4528.github.io/covid-spa
 *  https://shr4528.github.io/React-Redux-Todo-App/
+*   https://shr4528.github.io/colors/
+*   https://shr4528.github.io/starwars/
 
 
 - 📫 How to reach me shr4528@gmail.com
