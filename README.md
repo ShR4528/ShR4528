@@ -24,6 +24,7 @@
 *  https://shr4528.github.io/portfolio
 *  https://shr4528.github.io/personal-portfolio
 *  https://shr4528.github.io/covid-spa
+*  https://shr4528.github.io/my-app/
 *  https://shr4528.github.io/React-Redux-Todo-App/
 *  https://shr4528.github.io/colors/
 *  https://shr4528.github.io/starwars/
