@@ -1,4 +1,4 @@
-## Hi There 👋  I’m Shamil from Ukraine
+## Hi There 👋  I’m Shamil 
 - 👀 I’m Frontend Developer
 
 
