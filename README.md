@@ -24,6 +24,7 @@
 *  https://shr4528.github.io/portfolio
 *  https://my-project-git-main-shr4528.vercel.app/
 *  https://shr4528.github.io/personal-portfolio
+*  https://pawa-task-2.vercel.app/
 *  https://shr4528.github.io/covid-spa
 *  https://shr4528.github.io/my-app/
 *  https://shr4528.github.io/React-Redux-Todo-App/
