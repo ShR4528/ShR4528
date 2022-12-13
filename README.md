@@ -30,6 +30,7 @@
 *  https://shr4528.github.io/covid-spa
 *  https://shr4528.github.io/my-app/
 *  https://shr4528.github.io/react-todo-app/
+*  https://vue-rock-paper-scissor.vercel.app/
 *  https://shr4528.github.io/React-Redux-Todo-App/
 *  https://shr4528.github.io/colors/
 *  https://shr4528.github.io/starwars/
