@@ -21,6 +21,8 @@
 
 ## My Portfolio:
 
+* https://simple-cv-master-augu.vercel.app/
+
 * https://fullstacktodo-list.netlify.app
 * https://hockey-portfolio.vercel.app/
 * https://portfolio-nextsjs.vercel.app/
